@@ -1,0 +1,34 @@
+
+h1{
+	color: purple;
+	font-size: 50;
+}
+
+
+input{type=text}, select
+ {
+	width: 50%;
+	padding: 10px 20px;
+	display: inline-table;
+	border: 1px unset;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+input{type=submit}, {
+	width: 80%;
+	background-color: skyblue;
+	color: white;
+	padding: 10px 20px;
+	margin:8px 0;
+	border: 1px unset;
+	border-radius: 5px;
+	cursor: pointer;
+}
+input{type=submit};hover {
+	background-color: lightgreen;
+}
+form {
+	border-radius: 1px;
+	background-color: lightskyblue;
+	padding: 50px;
+}
